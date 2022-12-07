@@ -1,0 +1,3 @@
+F:/FacultaSDA/Pullin_Calin_315/cmake-build-debug/CMakeFiles/Proiect_Final.dir
+F:/FacultaSDA/Pullin_Calin_315/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/FacultaSDA/Pullin_Calin_315/cmake-build-debug/CMakeFiles/rebuild_cache.dir
